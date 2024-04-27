@@ -1,0 +1,236 @@
+/* Root Colours */
+:root {
+  /* Red */
+  --red-r: 244;
+  --red-g: 7;
+  --red-b: 0;
+
+  --custom-red: rgb(var(--red-r), var(--red-g), var(--red-b));
+
+  /* Dark Grey */
+  --grey-r: 21;
+  --grey-g: 21;
+  --grey-b: 30;
+
+  --custom-grey: rgb(var(--grey-r), var(--grey-g), var(--grey-b));
+
+  --custom-grey-dark: rgb(
+    calc(var(--grey-r) * 0.6),
+    calc(var(--grey-g) * 0.6),
+    calc(var(--grey-b) * 0.6)
+  );
+
+  /* Smoke Grey*/
+  --smoke-grey-r: 231;
+  --smoke-grey-g: 231;
+  --smoke-grey-b: 231;
+
+  --custom-smoke-grey: rgb(
+    var(--smoke-grey-r),
+    var(--smoke-grey-g),
+    var(--smoke-grey-b)
+  );
+}
+
+/* Body */
+body {
+  background-color: white;
+  overflow-x: hidden;
+  display: block;
+  font-family: "Formula1Regular";
+  color: black;
+}
+
+/*Body Dark Mode Toggle */
+.dark-mode {
+  background-color: var(--custom-grey);
+  color: white;
+}
+
+/*Fonts*/
+@font-face {
+  font-family: "Formula1Regular";
+  src: url("../fonts/Formula1-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Formula1Bold";
+  src: url("../fonts/Formula1-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Formula1Black";
+  src: url("../fonts/Formula1-Black.ttf") format("truetype");
+}
+
+/* Nav */
+.white {
+  color: white;
+}
+
+.nav-link {
+  border-radius: 2rem;
+}
+
+.nav-link:hover {
+  background-color: var(--custom-grey);
+  color: white;
+}
+
+nav {
+  width: 100%;
+  background-color: var(--custom-red);
+  color: white;
+  letter-spacing: 0.1rem;
+  z-index: 1;
+}
+
+nav a {
+  padding: 1rem;
+}
+
+.dropdown-menu a:link {
+  color: var(--custom-grey);
+  text-decoration: none;
+}
+.dropdown-menu a:visited {
+  color: var(--custom-grey);
+  text-decoration: none;
+}
+.dropdown-menu a:hover {
+  text-decoration: underline var(--custom-red) 0.2rem;
+}
+
+#dark-mode-button {
+  padding: 0.4rem;
+  scale: 1.7;
+  border-radius: 5rem;
+  transition: all 0.3s linear;
+}
+
+#dark-mode-button:hover {
+  background-color: var(--custom-smoke-grey);
+  cursor: pointer;
+  color: var(--custom-grey);
+}
+
+/*Hero*/
+.center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#hero-container {
+  position: relative;
+  width: 100vw;
+  height: 30vh;
+  margin-bottom: 5vh;
+}
+
+#hero-image {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#hero-wrapper {
+  position: absolute;
+  top: 60%;
+  width: 95%;
+  height: 80%;
+  border-right: 0.4rem var(--custom-red) solid;
+  border-bottom: 0.4rem var(--custom-red) solid;
+  border-radius: 0 0 1rem;
+}
+
+h1 {
+  width: 100%;
+  max-height: 100%;
+  font-family: "Formula1Bold";
+  letter-spacing: 0.2rem;
+  text-align: center;
+  font-size: 10vw;
+}
+
+/* Main */
+
+.main-container {
+  background-image: url("../images/plus-x1.avif");
+  background-size: 10px;
+  padding: 2vh;
+  margin-bottom: 8vh;
+  border-left: 0.4rem var(--custom-red) solid;
+  border-bottom: 0.4rem var(--custom-red) solid;
+  border-radius: 0rem 1rem 0rem;
+}
+
+/* Main Dark Mode Toggle */
+.main-container-dark {
+  background-image: url("../images/plus-x1-white.avif");
+}
+
+/* Article */
+article {
+  background-color: var(--custom-smoke-grey);
+  border-right: 0.2rem var(--custom-grey) solid;
+  border-top: 0.2rem var(--custom-grey) solid;
+  border-radius: 0rem 1rem 0rem;
+  letter-spacing: 0.5px;
+  word-spacing: 3px;
+}
+
+article a {
+  text-decoration: none;
+  color: var(--custom-red);
+}
+
+article a:hover {
+  text-decoration: underline var(--custom-red) 0.2rem;
+}
+
+/*Article Dark Mode Toggle*/
+.article-dark {
+  background-color: var(--custom-grey-dark);
+  border-right: 0.2rem var(--custom-smoke-grey) solid;
+  border-top: 0.2rem var(--custom-smoke-grey) solid;
+}
+
+/* Footer */
+footer {
+  position: relative;
+  height: 10rem;
+  background-color: var(--custom-grey);
+  border-top: solid var(--custom-red) 0.4rem;
+  border-left: solid var(--custom-red) 0.4rem;
+  border-radius: 1rem 0 0;
+}
+
+#footer-section {
+  padding: 0.1rem;
+  border-bottom: solid var(--custom-red) 0.4rem;
+  border-right: solid var(--custom-red) 0.4rem;
+  border-radius: 0 0 1rem;
+  color: var(--custom-smoke-grey);
+  position: absolute;
+}
+
+#button-container > a {
+  padding: 1rem;
+}
+
+#button-container > a:link {
+  color: var(--custom-smoke-grey);
+  text-decoration: none;
+}
+#button-container > a:visited {
+  color: var(--custom-smoke-grey);
+  text-decoration: none;
+}
+#button-container > a:hover {
+  text-decoration: underline var(--custom-red) 0.2rem;
+}
+
+@media screen and (min-width: 992px) {
+  h1 {
+    font-size: 6vw;
+  }
+}

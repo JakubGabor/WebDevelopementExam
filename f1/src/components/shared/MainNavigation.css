@@ -1,0 +1,16 @@
+nav {
+  background-color: red;
+}
+
+.white {
+  color: white;
+}
+
+.nav-link {
+  border-radius: 2rem;
+}
+
+.nav-link:hover {
+  background-color: var(--custom-grey);
+  color: white;
+}

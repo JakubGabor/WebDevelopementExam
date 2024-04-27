@@ -1,0 +1,49 @@
+header > h3 {
+  font-size: 10vw;
+  border-top: solid var(--custom-red) 0.4rem;
+  border-right: solid var(--custom-red) 0.4rem;
+  border-radius: 0 1rem;
+}
+
+th,
+td {
+  padding: 0.1rem;
+  border-bottom: 0.1rem solid var(--custom-red);
+}
+
+.custom-span {
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+  background-color: var(--custom-grey);
+  color: #4cff8f;
+}
+
+.green {
+  color: #4cff8f;
+}
+
+.code-container {
+  font-family: monospace;
+  background-color: var(--custom-grey);
+  color: white;
+}
+
+@media (width > 992px) {
+  header > h3 {
+    font-size: 5vw;
+  }
+}
+
+@media (width < 768px) {
+  table {
+    font-size: 3.5vw;
+  }
+
+  .scroll {
+    overflow-x: scroll;
+  }
+
+  section {
+    overflow-x: scroll;
+  }
+}

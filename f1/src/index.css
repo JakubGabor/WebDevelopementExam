@@ -1,0 +1,115 @@
+:root {
+  background-color: #242424;
+  font-family: "Formula1Regular";
+
+  /* Red */
+  --red-r: 244;
+  --red-g: 7;
+  --red-b: 0;
+
+  --custom-red: rgb(var(--red-r), var(--red-g), var(--red-b));
+
+  /* Dark Grey */
+  --grey-r: 21;
+  --grey-g: 21;
+  --grey-b: 30;
+
+  --custom-grey: rgb(var(--grey-r), var(--grey-g), var(--grey-b));
+
+  --custom-grey-dark: rgb(
+    calc(var(--grey-r) * 0.6),
+    calc(var(--grey-g) * 0.6),
+    calc(var(--grey-b) * 0.6)
+  );
+
+  /* Smoke Grey*/
+  --smoke-grey-r: 231;
+  --smoke-grey-g: 231;
+  --smoke-grey-b: 231;
+
+  --custom-smoke-grey: rgb(
+    var(--smoke-grey-r),
+    var(--smoke-grey-g),
+    var(--smoke-grey-b)
+  );
+
+  --custom-smoke-grey-dark: rgb(
+    calc(var(--smoke-grey-r) * 0.8),
+    calc(var(--smoke-grey-g) * 0.8),
+    calc(var(--smoke-grey-b) * 0.8)
+  );
+}
+
+@font-face {
+  font-family: "Formula1Regular";
+  src: url("../fonts/Formula1-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Formula1Bold";
+  src: url("../fonts/Formula1-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Formula1Black";
+  src: url("../fonts/Formula1-Black.ttf") format("truetype");
+}
+
+#root {
+  font-family: "Formula1Regular";
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.5px;
+  word-spacing: 3px;
+}
+
+.border-bottom {
+  border-bottom: var(--custom-red) 0.2rem solid;
+}
+
+.button {
+  word-spacing: 3px;
+  letter-spacing: 0.5px;
+  background-color: var(--custom-grey);
+  border-radius: 5rem;
+  color: var(--custom-smoke-grey);
+  box-shadow: 0 0 0.3rem rgb(231, 0, 0);
+  transition: 0.3s;
+}
+.button:active {
+  scale: 0.99;
+  background-color: var(--custom-grey-dark);
+}
+
+.category {
+  letter-spacing: 0.5px;
+  word-spacing: 3px;
+  background-color: transparent;
+  border: none;
+  transition: 0.3s;
+}
+
+.category + .category {
+  border-left: 1px solid var(--custom-red);
+}
+
+.category:hover {
+  font-size: large;
+  text-decoration: underline 0.2rem var(--custom-grey-dark);
+}
+
+.category-active {
+  font-size: large;
+  text-decoration: underline 0.2rem var(--custom-red);
+}
+
+.red-underline {
+  text-decoration: underline 0.2rem var(--custom-red);
+}
+
+footer {
+  color: var(--custom-smoke-grey);
+  border-top: solid var(--custom-red) 0.2rem;
+  border-left: solid var(--custom-red) 0.2rem;
+  border-radius: 1rem 0 0;
+  background-color: var(--custom-grey);
+}

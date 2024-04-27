@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\css\\database.css",
+      "PackagePath": "staticwebassets\\css\\database.css"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\docs.html",
+      "PackagePath": "staticwebassets\\docs.html"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\drivers.html",
+      "PackagePath": "staticwebassets\\drivers.html"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\fonts\\Formula1-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Formula1-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\fonts\\Formula1-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Formula1-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\fonts\\Formula1-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Formula1-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\fonts\\Formula1-Wide.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Formula1-Wide.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\albon.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\albon.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\alonso.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\alonso.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\bottas.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\bottas.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\devries.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\devries.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\gasly.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\gasly.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\hamilton.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\hamilton.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\hulkenberg.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\hulkenberg.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\lawson.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\lawson.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\leclerc.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\leclerc.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\magnussen.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\magnussen.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\norris.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\norris.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\ocon.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\ocon.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\perez.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\perez.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\piastri.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\piastri.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\ricciardo.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\ricciardo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\russell.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\russell.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\sainz.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\sainz.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\sargeant.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\sargeant.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\stroll.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\stroll.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\tsunoda.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\tsunoda.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\verstappen.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\verstappen.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\drivers\\zhou.avif",
+      "PackagePath": "staticwebassets\\images\\drivers\\zhou.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\formel-1-white.webp",
+      "PackagePath": "staticwebassets\\images\\formel-1-white.webp"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\formula-1-shadow.webp",
+      "PackagePath": "staticwebassets\\images\\formula-1-shadow.webp"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\formula-1.webp",
+      "PackagePath": "staticwebassets\\images\\formula-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\plus-x1-white.avif",
+      "PackagePath": "staticwebassets\\images\\plus-x1-white.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\plus-x1.avif",
+      "PackagePath": "staticwebassets\\images\\plus-x1.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\car\\alfaromeo.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\car\\alfaromeo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\car\\alphatauri.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\car\\alphatauri.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\car\\alpine.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\car\\alpine.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\car\\astonmartin.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\car\\astonmartin.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\car\\ferrari.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\car\\ferrari.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\car\\haas.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\car\\haas.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\car\\mclaren.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\car\\mclaren.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\car\\mercedes.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\car\\mercedes.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\car\\redbull.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\car\\redbull.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\car\\williams.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\car\\williams.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\logo\\alfaromeologo.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\logo\\alfaromeologo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\logo\\alphataurilogo.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\logo\\alphataurilogo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\logo\\alpinelogo.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\logo\\alpinelogo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\logo\\astonmartinlogo.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\logo\\astonmartinlogo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\logo\\ferrarilogo.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\logo\\ferrarilogo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\logo\\haaslogo.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\logo\\haaslogo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\logo\\mclarenlogo.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\logo\\mclarenlogo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\logo\\mercedeslogo.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\logo\\mercedeslogo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\logo\\redbulllogo.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\logo\\redbulllogo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\images\\teams\\logo\\williamslogo.avif",
+      "PackagePath": "staticwebassets\\images\\teams\\logo\\williamslogo.avif"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\scripts\\docs.js",
+      "PackagePath": "staticwebassets\\scripts\\docs.js"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\scripts\\drivers.js",
+      "PackagePath": "staticwebassets\\scripts\\drivers.js"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\scripts\\footer.js",
+      "PackagePath": "staticwebassets\\scripts\\footer.js"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\scripts\\index.js",
+      "PackagePath": "staticwebassets\\scripts\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\scripts\\modules\\DarkModeModule.js",
+      "PackagePath": "staticwebassets\\scripts\\modules\\DarkModeModule.js"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\scripts\\modules\\FooterModule.js",
+      "PackagePath": "staticwebassets\\scripts\\modules\\FooterModule.js"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\scripts\\modules\\NavModule.js",
+      "PackagePath": "staticwebassets\\scripts\\modules\\NavModule.js"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\scripts\\services\\F1Service.js",
+      "PackagePath": "staticwebassets\\scripts\\services\\F1Service.js"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\scripts\\teams.js",
+      "PackagePath": "staticwebassets\\scripts\\teams.js"
+    },
+    {
+      "Id": "C:\\Users\\jakub\\Desktop\\ExamWeb\\Exam\\f1API\\wwwroot\\teams.html",
+      "PackagePath": "staticwebassets\\teams.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.f1API.props",
+      "PackagePath": "build\\f1API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.f1API.props",
+      "PackagePath": "buildMultiTargeting\\f1API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.f1API.props",
+      "PackagePath": "buildTransitive\\f1API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.f1API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
